@@ -1,4 +1,8 @@
 # Droopy
+### Todo
+- Upload Folder
+- Change Upload Directory
+
 ### Easy File Sharing
 Copyright 2008-2013 (c) Pierre Duquesne <stackp@online.fr>
 Licensed under the New BSD License.
